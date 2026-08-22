@@ -1,0 +1,6 @@
+{
+  "name": "Live Inventory & Kiosk Sync Service",
+  "description": "Production-ready live sync architecture with webhook push ingestion, HMAC SHA-256 verification, and Solstice Events Co. asynchronous check-in kiosk with badge printer queue, out-of-order webhook callbacks, and duplicate-scan protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
